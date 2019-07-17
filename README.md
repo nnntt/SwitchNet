@@ -16,6 +16,8 @@ SwitchNet is a framework to accelerate relation extraction and lifelong learning
 * [Citation](#citation) 
 * [Updating](#updating)
 
+<span><img src="./pic/1563377903.59111.png" alt="network" width="60%"></span>  
+Figure 1. Neural architecture overview
 
 #### Object detection papers
 Get more inspiration or evolution from papers for object detection or face detection recognition.  
