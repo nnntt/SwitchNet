@@ -18,7 +18,7 @@ SwitchNet is a framework to accelerate relation extraction and lifelong learning
 
 
 #### Object detection papers
-Get more inspiration or evolution from these papers for object detection.  
+Get more inspiration or evolution from papers for object detection or face detection recognition.  
 ```
 @inproceedings{girshick2014rich,
   title={Rich feature hierarchies for accurate object detection and semantic segmentation},
@@ -48,9 +48,29 @@ Get more inspiration or evolution from these papers for object detection.
   pages={779--788},
   year={2016}
 }
-
 ```
-
+Papers about face detection.
+```
+@article{viola2001rapid,
+  title={Rapid object detection using a boosted cascade of simple features},
+  author={Viola, Paul and Jones, Michael and others},
+  journal={CVPR (1)},
+  volume={1},
+  number={511-518},
+  pages={3},
+  year={2001}
+}
+@article{viola2004robust,
+  title={Robust real-time face detection},
+  author={Viola, Paul and Jones, Michael J},
+  journal={International journal of computer vision},
+  volume={57},
+  number={2},
+  pages={137--154},
+  year={2004},
+  publisher={Springer}
+}
+```
 ## Updating...
 
 * 2019-Jan-20, SwitchNet v0.1, initial version, building a new framework, SwitchNet, for lifelong relation extraction, compatible with pre-trained BERT
