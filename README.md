@@ -18,7 +18,7 @@ SwitchNet is a framework to accelerate relation extraction and lifelong learning
 
 
 #### Object detection papers
-We can get more inspiration or evolution from these papers for object detection.  
+You can get more inspiration or evolution from these papers for object detection.  
 ```
 @inproceedings{girshick2014rich,
   title={Rich feature hierarchies for accurate object detection and semantic segmentation},
