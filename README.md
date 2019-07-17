@@ -17,5 +17,5 @@ SwitchNet is a framework to accelerate relation extraction and lifelong learning
 ## Updating...
 
 * 2019-Jan-20, SwitchNet v0.1, initial version, compatible with pre-trained BERT
-* 2018-Mar-03, SwitchNet v0.2, supporting visualization 
-* 2019-Apr-20, SwitchNet v0.2, enhanced modularity
+* 2018-Mar-03, SwitchNet v0.2, supporting visualization for interpretability
+* 2019-Apr-20, SwitchNet v0.2, enhancing modularity for lifelong learning
