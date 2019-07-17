@@ -10,9 +10,46 @@ SwitchNet is a framework to accelerate relation extraction and lifelong learning
 * [Basics](#basics)
   * [Installation](#installation)
   * [Addition](#addition)
-    * [Visualization](#visualization)
+    * [Model visualization](#model-visualization)
+    * [Data visualization analysis](#data-visualization-analysis)
+    * [Object detection papers](#object-detection-papers)
 * [Citation](#citation) 
 * [Updating](#updating)
+
+
+#### Object detection papers
+We can get more inspiration or evolution from these papers for object detection.  
+```
+@inproceedings{girshick2014rich,
+  title={Rich feature hierarchies for accurate object detection and semantic segmentation},
+  author={Girshick, Ross and Donahue, Jeff and Darrell, Trevor and Malik, Jitendra},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={580--587},
+  year={2014}
+}
+@inproceedings{girshick2015fast,
+  title={Fast r-cnn},
+  author={Girshick, Ross},
+  booktitle={Proceedings of the IEEE international conference on computer vision},
+  pages={1440--1448},
+  year={2015}
+}
+@inproceedings{ren2015faster,
+  title={Faster r-cnn: Towards real-time object detection with region proposal networks},
+  author={Ren, Shaoqing and He, Kaiming and Girshick, Ross and Sun, Jian},
+  booktitle={Advances in neural information processing systems},
+  pages={91--99},
+  year={2015}
+}
+@inproceedings{redmon2016you,
+  title={You only look once: Unified, real-time object detection},
+  author={Redmon, Joseph and Divvala, Santosh and Girshick, Ross and Farhadi, Ali},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={779--788},
+  year={2016}
+}
+
+```
 
 ## Updating...
 
