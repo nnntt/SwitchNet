@@ -3,7 +3,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg)](https://opensource.org/licenses/Apache-2.0)
 
-SwitchNet is a framework to accelerate relation extraction and lifelong learning research. Adaptively continuously learn and extract different shapes of relations. It is a preview. The detailed descriptions are still in the making.
+SwitchNet is a framework to accelerate relation extraction and lifelong learning research. Adaptively continuously learn and extract different forms of relations. It is a preview. The detailed descriptions are still in the making.
 
 ### Contents
 
