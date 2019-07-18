@@ -21,7 +21,7 @@ Figure 1. Neural architecture overview
 
 ## Basics
 
-<span><img src="./pic/1563452295.686332.png" alt="network" width="50%"></span>  
+<span><img src="./pic/1563452295.686332.png" alt="network" width="60%"></span>  
 Figure 2. Lifelong relation extraction  
 
 #### Object detection papers
