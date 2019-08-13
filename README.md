@@ -12,6 +12,7 @@ SwitchNet is a framework to accelerate relation extraction and lifelong learning
   * [Addition](#addition)
     * [Distant supervision](#distant-supervision)
     * [Elastic weight consolidation](#elastic-weight-consolidation)
+     * [Conditional random field](#conditional-random-field)
     * [Model visualization](#model-visualization)
     * [Data visualization analysis](#data-visualization-analysis)
     * [Object detection papers](#object-detection-papers)
