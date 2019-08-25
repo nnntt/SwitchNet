@@ -3,7 +3,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg)](https://opensource.org/licenses/Apache-2.0)
 
-SwitchNet is a framework to accelerate relation extraction and lifelong learning research. Adaptively continuously learn and extract different forms and classes of relations. It is a preview. The detailed descriptions are still in the making.  
+SwitchNet is a framework to accelerate relation extraction and lifelong learning research. Adaptively continuously learn and extract different forms and new classes of relations. It is a preview. The detailed descriptions are still in the making.  
 <span><img src="./pic/1563457299.896178.png" alt="network" width="10%"></span>  
 ### Contents
 
@@ -90,6 +90,6 @@ Papers about face detection.
 ```
 ## Updating...
 
-* 2019-Jan-20, SwitchNet v0.1, initial version, building a new framework, SwitchNet, for lifelong relation extraction, compatible with pre-trained BERT
-* 2019-Mar-03, SwitchNet v0.2, supporting visualization for interpretability
-* 2019-Apr-20, SwitchNet v0.2, enhancing modularity by switching information flow based on input data  
+* 2019-Apr-20, SwitchNet v0.2, enhance modularity by switching information flow based on input data  
+* 2019-Mar-03, SwitchNet v0.2, support visualization for interpretability  
+* 2019-Jan-20, SwitchNet v0.1, initial version, build a new framework, SwitchNet, for lifelong relation extraction, compatible with pre-trained BERT  
