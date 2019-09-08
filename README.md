@@ -89,8 +89,8 @@ Papers about face detection.
 }
 ```
 ## Updating...
-* 2019-Apr-15, SwitchNet v0.3, add ranking mechanism for candidate selection
-* 2019-Apr-10, SwitchNet v0.3, update RPI to RPI-PE by adding position embeddings, compitable with SRE/MRE models for TE
+* 2019-Aug-15, SwitchNet v0.3, add ranking mechanism for candidate selection
+* 2019-Aug-10, SwitchNet v0.3, update RPI to RPI-PE by adding position embeddings, compitable with SRE/MRE models for triple extraction
 * 2019-Apr-20, SwitchNet v0.2, enhance modularity by switching information flow based on input data  
 * 2019-Mar-03, SwitchNet v0.2, support visualization for interpretability  
 * 2019-Jan-20, SwitchNet v0.1, initial version, build a new framework, SwitchNet, for lifelong relation extraction, compatible with pre-trained BERT  
