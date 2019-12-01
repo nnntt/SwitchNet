@@ -89,6 +89,7 @@ Papers about face detection.
 }
 ```
 ## Updating...
+* 2019-Oct-15, SwitchNet v0.3, introduce EOIs and POEOIs and establish a link between relation extraction and computer vision studies
 * 2019-Aug-15, SwitchNet v0.3, introduce ranking mechanism for candidate selection
 * 2019-Aug-10, SwitchNet v0.3, expand RPI to RPI-PE by adding position embedding, widely compatible with SRE/MRE models for triple extraction
 * 2019-Apr-20, SwitchNet v0.2, enhance modularity by switching information flow based on input data  
